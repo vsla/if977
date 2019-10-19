@@ -58,7 +58,7 @@ Monitor: Ricardo Ferreira (rfsj)
 
 Link do repositório: [BugHunter](https://github.com/vsla/BugHunter)
 
-Link a aplicação no Heroku: https://bughunter-front.herokuapp.com/
+Link a aplicação no Heroku: [site](https://bughunter-front.herokuapp.com/) & [backend](https://github.com/brailog/backend-bxh)
 
 Monitor: Vinícius Giles (vgcp)
 
